@@ -13,6 +13,6 @@ public class PrimeMain {
 		
 		FindPrime findPrime = new FindPrime();
 		
-		System.out.println(findPrime.findPrime(7));
+		System.out.println(findPrime.findPrime(5));
 	}
 }
