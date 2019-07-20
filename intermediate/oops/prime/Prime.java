@@ -3,7 +3,7 @@ package oops.prime;
 public class Prime {
 	boolean isPrime;
 
-	public boolean prime(int number) {
+	public static boolean prime(int number) {
 		if (number == 2) {
 			return true;
 		} else if(number>2 && number%2!=0)
